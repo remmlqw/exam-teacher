@@ -1,0 +1,14 @@
+{
+  "roleSet": [1],
+  "respCode": "1",
+  "respMsg": "登录成功",
+  "managerInfo": {
+    "instId": 1,
+    "managerId": 1,
+    "name": "欧洋",
+    "password": "E10ADC3949BA59ABBE56E057F20F883E",
+    "roleId": 1,
+    "status": 1
+  },
+  "authSet": [1, 2, 3, 4, 5]
+}

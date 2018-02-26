@@ -1,0 +1,51 @@
+{
+  "respCode" : "1",
+  "total" : "50",
+  "data": [{
+    "autoTotalScore": 0,
+    "classId": 1,
+    "className": "西脱1711",
+    "examDate": "2018-01-30",
+    "instId": 12,
+    "managerId": 1,
+    "managerList": [{
+      "instId": 0,
+      "managerId": 1,
+      "name": "欧洋",
+      "roleId": 0,
+      "status": 0
+    }],
+    "name": "欧洋",
+    "paperId": 2,
+    "status": 1,
+    "stuId": 0,
+    "subjectName": "java",
+    "totalscore": 0
+  },{
+    "autoTotalScore": 0,
+    "classId": 1,
+    "className": "涉外1711",
+    "examDate": "2018-02-30",
+    "instId": 13,
+    "managerId": 1,
+    "managerList": [{
+      "instId": 0,
+      "managerId": 1,
+      "name": "欧洋",
+      "roleId": 0,
+      "status": 0
+    },{
+      "instId": 1,
+      "managerId": 2,
+      "name": "李倩文",
+      "roleId": 0,
+      "status": 0
+    }],
+    "name": "欧洋",
+    "paperId": 2,
+    "status": 1,
+    "stuId": 0,
+    "subjectName": "web前端",
+    "totalscore": 0
+  }]
+}
