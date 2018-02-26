@@ -1,0 +1,35 @@
+{
+  "data": [{
+    "autoTotalScore": 0,
+    "classId": 0,
+    "instId": 1,
+    "managerId": 0,
+    "name": "张三",
+    "paperId": 0,
+    "status": 1,
+    "stuId": 2,
+    "totalscore": 0
+  }, {
+    "autoTotalScore": 0,
+    "classId": 0,
+    "instId": 3,
+    "managerId": 0,
+    "name": "李四",
+    "paperId": 0,
+    "status": 1,
+    "stuId": 3,
+    "totalscore": 0
+  }, {
+    "autoTotalScore": 0,
+    "classId": 0,
+    "instId": 4,
+    "managerId": 0,
+    "name": "王五",
+    "paperId": 0,
+    "status": 1,
+    "stuId": 4,
+    "totalscore": 0
+  }],
+  "respCode": "1",
+  "total": 3
+}

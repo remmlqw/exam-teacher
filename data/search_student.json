@@ -1,0 +1,30 @@
+{
+  "respCode" : "1",
+  "data": [{
+    "classId": 1,
+    "name": "张三",
+    "password": "78D6B87F9DDDF68469015CF434C79ADA",
+    "stuId": 2
+  }, {
+    "classId": 1,
+    "name": "李四",
+    "password": "",
+    "stuId": 3
+  }, {
+    "classId": 1,
+    "name": "王五",
+    "password": "",
+    "stuId": 4
+  }, {
+    "classId": 2,
+    "name": "张三",
+    "password": "",
+    "stuId": 5
+  }, {
+    "classId": 2,
+    "name": "唐山",
+    "password": "",
+    "stuId": 6
+  }],
+  "total": 25
+}
