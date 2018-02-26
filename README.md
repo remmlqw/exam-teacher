@@ -1,8 +1,8 @@
 # 教务管理+在线考试系统
 
-** 项目采用 React + React Router 4.0 + Redux + Ant Design **
+`** 项目采用 React + React Router 4.0 + Redux + Ant Design **`
 
-** 开发环境使用Webpack搭建 **
+`** 开发环境使用Webpack搭建 **`
 
 前言
 > 这个是本系统的教师端
@@ -133,22 +133,22 @@
 ```
 
 ### 主要功能截图
-** 登录 **
+`** 登录 **`
 ![Image text](https://raw.githubusercontent.com/remmlqw/img-folder/master/login.png)
 
-** 主界面 **
+`** 主界面 **`
 ![Image text](https://raw.githubusercontent.com/remmlqw/img-folder/master/main.png)
 
-** 试题录入 **
+`** 试题录入 **`
 ![Image text](https://raw.githubusercontent.com/remmlqw/img-folder/master/luru.png)
 
-** 出卷 **
+`** 出卷 **`
 ![Image text](https://raw.githubusercontent.com/remmlqw/img-folder/master/chujuan.png)
 
-** 成绩查询 **
+`** 成绩查询 **`
 ![Image text](https://raw.githubusercontent.com/remmlqw/img-folder/master/score_search.png)
 
-** 班级管理 **
+`** 班级管理 **`
 学生管理、教师管理、班级管理 界面雷同 所以只放了班级管理的截图
 
 添加班级
@@ -160,7 +160,7 @@
 修改班级
 ![Image text](https://raw.githubusercontent.com/remmlqw/img-folder/master/xiugai.png)
 
-** 考试管理 **
+`** 考试管理 **`
 
 创建考试
 ![Image text](https://raw.githubusercontent.com/remmlqw/img-folder/master/create_exam.png)
@@ -174,7 +174,7 @@
 教师在线阅卷
 ![Image text](https://raw.githubusercontent.com/remmlqw/img-folder/master/reding.png)
 
-** 个人中心 **
+`** 个人中心 **`
 ![Image text](https://raw.githubusercontent.com/remmlqw/img-folder/master/person.png)
 
 ### 安装运行
