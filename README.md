@@ -5,7 +5,7 @@
 **开发环境使用Webpack搭建**
 
 前言
-> 这个是本系统的教师端
+> 这个是本系统的教师端 学生端请点击：[在线考试系统（学生端）](https://github.com/remmlqw/exam-student)
 
 ### 功能模块
 
