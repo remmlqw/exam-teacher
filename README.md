@@ -6,7 +6,11 @@
 
 ***
 
-**项目演示地址：http://liqianwen.remmli.com:8080/#/login**
+**项目演示地址**
+
+```js
+http://liqianwen.remmli.com:8080/#/login
+```
 
 **注意：演示地址并不是项目真实线上地址，只是演示而已~ 服务器带宽太低，所以打开较慢...请谅解**
 
