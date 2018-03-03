@@ -1,5 +1,7 @@
 # 教务管理+在线考试系统
-
+ 
+**项目演示地址：http://liqianwen.remmli.com:8080/#/login**
+ 
 **项目采用 React + React Router 4.0 + Redux + Ant Design**
 
 **开发环境使用Webpack搭建**
