@@ -6,6 +6,8 @@
 
 **项目演示地址：http://liqianwen.remmli.com:8080/#/login**
 
+**注意：演示地址并不是项目真实线上地址，只是演示而已~ 服务器带宽太低，所以打开较慢...请谅解**
+
 前言
 > 这个是本系统的教师端 学生端请点击：[在线考试系统（学生端）](https://github.com/remmlqw/exam-student)
 
